@@ -1,4 +1,4 @@
-# [gatsan Manager for Android](https://www.gatsan.com)
+# [Gatsan Manager for Android](https://www.gatsan.com)
 
 ## Overview
 
